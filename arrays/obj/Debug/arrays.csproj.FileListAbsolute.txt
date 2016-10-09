@@ -1,0 +1,12 @@
+c:\users\james\documents\visual studio 2013\Projects\arrays\arrays\bin\Debug\arrays.exe.config
+c:\users\james\documents\visual studio 2013\Projects\arrays\arrays\bin\Debug\arrays.exe
+c:\users\james\documents\visual studio 2013\Projects\arrays\arrays\bin\Debug\arrays.pdb
+c:\users\james\documents\visual studio 2013\Projects\arrays\arrays\obj\Debug\arrays.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2013\Projects\arrays\arrays\obj\Debug\arrays.Form1.resources
+c:\users\james\documents\visual studio 2013\Projects\arrays\arrays\obj\Debug\arrays.Properties.Resources.resources
+c:\users\james\documents\visual studio 2013\Projects\arrays\arrays\obj\Debug\arrays.csproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2013\Projects\arrays\arrays\obj\Debug\arrays.exe
+c:\users\james\documents\visual studio 2013\Projects\arrays\arrays\obj\Debug\arrays.pdb
+C:\Users\James\Desktop\Projects\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\James\Desktop\Projects\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\James\Desktop\Projects\arrays\arrays\obj\Debug\arrays.pdb
